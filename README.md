@@ -1,7 +1,7 @@
 # NoteApp
 # Application sketch
 
-![image](https://user-images.githubusercontent.com/95710591/163034873-3e120317-ef72-4888-a0a0-64dbb7a02a16.png)
+![image](https://user-images.githubusercontent.com/95710591/163035101-b3f5a019-fad3-4c1e-92c2-36f5df206f87.png)
 ___
 
 # TODO list created 
