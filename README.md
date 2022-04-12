@@ -3,6 +3,6 @@
 ___
 ![image](https://user-images.githubusercontent.com/95710591/162629949-3903d114-5a66-4af9-b56c-c4a4f111e50e.png)
 ___
-#TODO list created 
+# TODO list created 
 [12.4.22]
 https://todoist.com/app/project/2289596585
