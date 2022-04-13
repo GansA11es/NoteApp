@@ -11,4 +11,5 @@ ___
 
 # Examples of custom action bars
 [13.4.22]
-![image](https://user-images.githubusercontent.com/95710591/163270451-5b9d200a-e9ba-4314-85a8-17ebe66e5a44.png)
+
+![image](https://user-images.githubusercontent.com/95710591/163271116-4fc6eec1-893c-4bf9-8cac-24caf8622aff.png)
