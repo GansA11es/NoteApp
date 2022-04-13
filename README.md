@@ -1,11 +1,11 @@
 # NoteApp
-# Application sketch
 
 [12.4.22]
 # TODO list created 
 https://todoist.com/app/project/2289596585
 ___
 
+# Application sketch
 ![image](https://user-images.githubusercontent.com/95710591/163045464-00bec016-d97c-47a8-bc47-fbeacf225286.png)
 ___
 
