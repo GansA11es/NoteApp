@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         drawerLayout = findViewById(R.id.drawer_layout)
         navMenu = findViewById(R.id.nav_menu)
 
-        var actionBarDrawerToggle = ActionBarDrawerToggle(
+        val actionBarDrawerToggle = ActionBarDrawerToggle(
             this,
             drawerLayout,
             mToolbar,
@@ -42,7 +42,8 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         val inflater = menuInflater
         inflater.inflate(R.menu.menu_main, menu)
-        return super.onCreateOptionsMenu(menu)
+        super.onCreateOptionsMenu(menu)
+        return true
     }
 
     override fun onNavigationItemSelected(item: MenuItem): Boolean {
