@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/iliy_/Desktop/NoteApp/NoteApp/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.2315" />
+        <entry key="..\:/Users/iliy_/Desktop/NoteApp/NoteApp/app/src/main/res/drawable/ic_baseline_color_lens_24.xml" value="0.209" />
+        <entry key="..\:/Users/iliy_/Desktop/NoteApp/NoteApp/app/src/main/res/drawable/ic_baseline_done_24.xml" value="0.2315" />
+        <entry key="..\:/Users/iliy_/Desktop/NoteApp/NoteApp/app/src/main/res/drawable/ic_baseline_font_download_24.xml" value="0.209" />
+        <entry key="..\:/Users/iliy_/Desktop/NoteApp/NoteApp/app/src/main/res/drawable/ic_baseline_format_size_24.xml" value="0.209" />
+        <entry key="..\:/Users/iliy_/Desktop/NoteApp/NoteApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/iliy_/Desktop/NoteApp/NoteApp/app/src/main/res/menu/creation_menu.xml" value="0.34444444444444444" />
+        <entry key="..\:/Users/iliy_/Desktop/NoteApp/NoteApp/app/src/main/res/menu/nav_menu.xml" value="0.3729166666666667" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
