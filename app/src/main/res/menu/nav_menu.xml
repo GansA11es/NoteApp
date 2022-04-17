@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/nav_color_theme"
+        android:icon="@drawable/ic_baseline_color_lens_24"/>
+
+    <item android:title="@string/nav_archive"
+        android:icon="@drawable/ic_baseline_archive_24"/>
+
+    <item android:title="@string/nav_trash_can"
+        android:icon="@drawable/ic_baseline_delete_24"/>
+
+</menu>
