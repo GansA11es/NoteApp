@@ -7,23 +7,26 @@ import android.view.MenuItem
 import androidx.appcompat.app.ActionBarDrawerToggle
 import androidx.appcompat.widget.Toolbar
 import androidx.drawerlayout.widget.DrawerLayout
+import com.example.noteapp.databinding.ActivityMainBinding
 import com.google.android.material.navigation.NavigationView
 
 class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
 
+    private lateinit var binding: ActivityMainBinding
     private lateinit var mToolbar: Toolbar
     private lateinit var drawerLayout: DrawerLayout
     private lateinit var navMenu: NavigationView
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        binding = ActivityMainBinding.inflate(layoutInflater)
+        setContentView(binding.root)
 
-        mToolbar = findViewById(R.id.m_toolbar)
+        mToolbar =
         setSupportActionBar(mToolbar)
 
         drawerLayout = findViewById(R.id.drawer_layout)
-        navMenu = findViewById(R.id.nav_menu)
+        navMenu = findViewById(R.id.home_nav_menu)
 
         val actionBarDrawerToggle = ActionBarDrawerToggle(
             this,

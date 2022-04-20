@@ -22,7 +22,7 @@
         </activity>
 
         <activity
-            android:name=".TextNoteActivity"
+            android:name=".TextNoteFragment"
             android:label="CreateNote" />
     </application>
 
