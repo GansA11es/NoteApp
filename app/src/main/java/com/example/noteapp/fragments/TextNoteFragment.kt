@@ -1,13 +1,12 @@
-package com.example.noteapp
+package com.example.noteapp.fragments
 
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuInflater
-import android.view.View
 import androidx.appcompat.widget.Toolbar
 import androidx.drawerlayout.widget.DrawerLayout
 import androidx.fragment.app.Fragment
-import com.example.noteapp.databinding.FragmentTextNoteBinding
+import com.example.noteapp.R
 
 class TextNoteFragment : Fragment(R.layout.fragment_text_note) {
 
@@ -21,10 +20,6 @@ class TextNoteFragment : Fragment(R.layout.fragment_text_note) {
 
         setSupportActionBar(creationPageToolbar)
 
-    }
-
-    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        super.onViewCreated(view, savedInstanceState)
     }
 
     override fun onCreateOptionsMenu(menu: Menu, inflater: MenuInflater) {
