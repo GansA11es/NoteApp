@@ -8,6 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="grey">#b1b1b1</color>
+    <color name="red">#D64444</color>
     <color name="light_grey">#bababa</color>
     <color name="void_background">#00FFFFFF</color>
     <color name="color_toolbar">#252525</color>
