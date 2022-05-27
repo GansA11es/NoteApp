@@ -13,3 +13,7 @@ ___
 [13.4.22]
 
 ![image](https://user-images.githubusercontent.com/95710591/163271116-4fc6eec1-893c-4bf9-8cac-24caf8622aff.png)
+___
+
+the project was recreated
+https://github.com/GansA11es/NoteX
